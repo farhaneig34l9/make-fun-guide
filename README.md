@@ -45,6 +45,7 @@ Or use the code 9wsjd4r6 when you sign up (make.fun/r/9wsjd4r6). If you win, mak
 - Read the brief twice and write down the judge's criteria in priority order before you build anything.
 - Build in a session your agent records. An entry without transcripts is rejected.
 - Submit early enough that you have time to fix what the checks reject. Branding and README problems do not count against your entry quota, so fix them and resubmit.
+- After you submit, check your entry's status and the leaderboard — the provisional rank moves as new signups are verified, and the final result re-judges every entry from scratch.
 - Do not share your private key or seed phrase with anyone, ever — not with a friend, not with an agent, not in a chat.
 
 ---
